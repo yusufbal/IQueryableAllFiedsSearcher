@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IQueryableAllFieldsSearcher/.vs/IQueryableAllFieldsSearcher
+/IQueryableAllFieldsSearcher/bin/Debug/netcoreapp3.1
+/IQueryableAllFieldsSearcher/obj
+/IQueryableAllFieldsSearcher.Test/bin/Debug/netcoreapp3.1
+/IQueryableAllFieldsSearcher.Test/obj
