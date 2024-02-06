@@ -2,6 +2,27 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<RepositoryUrl>https://github.com/yusufbal/IQueryableAllFieldsSearcher</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Title>IQueryableAllFiedsSearcher: Custom Search Library for IQueryable Objects</Title>
+    <Version>1.0.2</Version>
+    <Authors>Yusuf Bal</Authors>
+    <Description>Custom and Advanced Search Library for IQueryable Objects</Description>
+    <PackageProjectUrl>https://github.com/yusufbal/IQueryableAllFieldsSearcher</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>logo.png</PackageIcon>
+
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="..\logo.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 </Project>
