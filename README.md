@@ -14,6 +14,9 @@ This library was born out of the need for performing customized searches on IQue
 ## Inspiration and Development
 This library was inspired by the specific needs for customized search capabilities within an existing MVC application. During its development, attributes and methods from the JqueryDataTablesServerSide (https://github.com/fingers10/JqueryDataTablesServerSide) library were taken as a basis, but were customized and extended to support a wider range of use cases.
 
+## Nuget
+https://www.nuget.org/packages/IQueryableAllFieldsSearcher v1.0.2
+
 ## Example Usage
 To utilize the advanced search capabilities, properties within your models can be marked with attributes to indicate they are searchable. Here's how you can implement and use these searches:
 
